@@ -16,11 +16,11 @@ Ambitious, competitive, energetic I seeking forward to build my career in the ba
  
     work in bank and be a professional FinTech software developer.
 
-     I would like to work in Commercial Banks.
+    I would like to work in Commercial Banks.
 
     I would like to use artificial intelligence and blockchain technology to improve financial services.
 
-     I would like to contribute to the development of innovative FinTech services, using data science.
+    I would like to contribute to the development of innovative FinTech services, using data science.
 
 
 ### Student mini-CV:
